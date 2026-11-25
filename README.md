@@ -26,3 +26,4 @@ export HA_TOKEN="<long-lived token>"
 - `ai/brain.py` - עוטף את `claude -p`.
 - `docs/decisions.md` - החלטות וסיכונים פתוחים.
 - `docs/HARDWARE.md` - חומרה, הרכבה, בדיקות קבלה, בטיחות.
+- `docs/HANDOFF.md` - מסמך העברה מלא להמשך עבודה בצ'אט אחר.
