@@ -1,0 +1,9 @@
+{
+  "latitude": 32.0853,
+  "longitude": 34.7818,
+  "messaging_provider": "phone_app",
+  "music_provider": "spotify",
+  "ha_url": "http://homeassistant.local:8123",
+  "beep_command": [],
+  "model": null
+}
